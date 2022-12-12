@@ -1,0 +1,20 @@
+.ADUM3221ARZ :1 ;Analog Devices ADUM3221ARZ PCB SMT Digital Isolator, 2500 V, 8-Pin SOIC N
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="VDD1" 2="VIA" 3="VIB" 4="GND1" 5="GND2" 6="VOB" 7="VOA" 8="VDD2"
+*MXP 8
+*DFN ADUM3221ARZ
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADUM3221ARZ)
+~!Mouser Part Number (584-ADUM3221ARZ)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADUM3221ARZ?qs=WIvQP4zGanj4w8f7RObJXQ%3D%3D)
+~!Arrow Part Number (ADUM3221ARZ)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/adum3221arz/analog-devices?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM3220_3221.pdf)
+~!Height (1.75mm)
+~!3D_Model (ADUM3221ARZ)
+ADUM3221ARZ
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

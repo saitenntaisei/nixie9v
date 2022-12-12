@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLP188_TPL,E
+D Transistor Output Optocouplers X36 PBF Transistor Cplr DC I/P VCEO350V
+K
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=13932&prodName=TLP188
+$ENDCMP
+#
+#End Doc Library

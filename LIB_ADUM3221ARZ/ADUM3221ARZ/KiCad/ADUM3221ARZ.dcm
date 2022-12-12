@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADUM3221ARZ
+D Analog Devices ADUM3221ARZ PCB SMT Digital Isolator, 2500 V, 8-Pin SOIC N
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM3220_3221.pdf
+$ENDCMP
+#
+#End Doc Library

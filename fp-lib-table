@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "nixie")(type "KiCad")(uri "${KIPRJMOD}/KiCadLibs-master/footprints.pretty")(options "")(descr ""))
+  (lib (name "ADUM3221ARZ")(type "KiCad")(uri "${KIPRJMOD}/LIB_ADUM3221ARZ/ADUM3221ARZ/KiCad")(options "")(descr ""))
+  (lib (name "MC34063AD")(type "KiCad")(uri "${KIPRJMOD}/LIB_MC34063ADonsemi/MC34063AD/KiCad")(options "")(descr ""))
+  (lib (name "RFM-0505S")(type "KiCad")(uri "${KIPRJMOD}/LIB_RFM-0505S/RFM-0505S/KiCad")(options "")(descr ""))
+  (lib (name "TLP188")(type "KiCad")(uri "${KIPRJMOD}/LIB_TLP188_TPL,E/TLP188_TPL,E/KiCad")(options "")(descr ""))
+)

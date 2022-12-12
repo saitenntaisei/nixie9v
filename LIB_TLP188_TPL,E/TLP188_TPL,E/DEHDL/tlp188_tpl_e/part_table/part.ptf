@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TLP188_TPL_E'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Toshiba", "TLP188(TPL,E" (!) = "", "SOP254P700X220-4N", "Small Outline Packages", "757-TLP188(TPLE", "https://www.mouser.co.uk/ProductDetail/Toshiba/TLP188TPLE?qs=HVbQlW5zcXVmqo5Az0Pkvg%3D%3D", "TLP188(TPL,E", "https://www.arrow.com/en/products/tlp188-tple/toshiba", "", "", "Transistor Output Optocouplers X36 PBF Transistor Cplr DC I/P VCEO350V", "http://toshiba.semicon-storage.com/info/docget.jsp?did=13932&prodName=TLP188", "2.2 mm"
+END_PART
+
+END.

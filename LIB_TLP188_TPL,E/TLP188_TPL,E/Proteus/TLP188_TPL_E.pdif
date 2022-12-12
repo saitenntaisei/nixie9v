@@ -1,0 +1,124 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TLP188_TPL_E"
+   (description "Transistor Output Optocouplers X36 PBF Transistor Cplr DC I/P VCEO350V")
+   (family "ANA")
+   (package "SOP254P700X220-4N")
+   (attribute "Datasheet Link" "http://toshiba.semicon-storage.com/info/docget.jsp?did=13932&prodName=TLP188")
+   (attribute "Geometry.Height" "2.2mm")
+   (attribute "Manufacturer_Name" "Toshiba")
+   (attribute "Manufacturer_Part_Number" "TLP188(TPL,E")
+   (attribute "Mouser Part Number" "757-TLP188(TPLE")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Toshiba/TLP188TPLE?qs=HVbQlW5zcXVmqo5Az0Pkvg%3D%3D")
+   (attribute "Arrow Part Number" "TLP188(TPL,E")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/tlp188-tple/toshiba")
+   (attribute "Mouser Testing Part Number" "")
+   (attribute "Mouser Testing Price/Stock" "")
+   (gate
+    (symbol "TLP188_TPL_E")
+    (pin "ANODE" 1 PS)
+    (pin "CATHODE" 2 PS)
+    (pin "COLLECTOR" 4 PS)
+    (pin "EMITTER" 3 PS)
+   )
+  )
+  (symbol "TLP188_TPL_E"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1300 100) (pt 1300 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOP254P700X220-4N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -4.325 2.225)
+      (pt 4.325 2.225)
+      (pt 4.325 -2.225)
+      (pt -4.325 -2.225)
+      (pt -4.325 2.225))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.3 1.875)
+      (pt 2.3 1.875)
+      (pt 2.3 -1.875)
+      (pt -2.3 -1.875)
+      (pt -2.3 1.875))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2.3 -0.665)
+      (pt 0.24 1.875))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.075 1.875)
+      (pt 2.075 1.875)
+      (pt 2.075 -1.875)
+      (pt -2.075 -1.875)
+      (pt -2.075 1.875))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -4.075 1.97)
+      (pt -2.425 1.97))))
+   (leg 1 (pt -3.25 1.27) (padstack 0))
+   (leg 2 (pt -3.25 -1.27) (padstack 0))
+   (leg 3 (pt 3.25 -1.27) (padstack 0))
+   (leg 4 (pt 3.25 1.27) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.7 1.65 0 0 0))
+   )
+   (model "TLP188_TPL,E.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

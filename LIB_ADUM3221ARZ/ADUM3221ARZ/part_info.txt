@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADUM3221ARZ
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=4.1
+Released=2017-01-11 11:21:59
+Downloaded=2022-12-12 12:42:20
+3D=Y

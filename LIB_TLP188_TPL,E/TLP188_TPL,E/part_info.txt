@@ -1,0 +1,9 @@
+Manufacturer=Toshiba
+PartNumber=TLP188(TPL,E
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=4
+Version=2.2
+Released=2018-01-15 22:09:25
+Downloaded=2022-12-12 12:28:54
+3D=Y

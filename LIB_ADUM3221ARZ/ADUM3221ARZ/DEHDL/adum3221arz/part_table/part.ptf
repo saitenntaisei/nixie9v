@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADUM3221ARZ'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADUM3221ARZ" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "584-ADUM3221ARZ", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADUM3221ARZ?qs=WIvQP4zGanj4w8f7RObJXQ%3D%3D", "ADUM3221ARZ", "https://www.arrow.com/en/products/adum3221arz/analog-devices?region=nac", "", "", "Analog Devices ADUM3221ARZ PCB SMT Digital Isolator, 2500 V, 8-Pin SOIC N", "https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM3220_3221.pdf", "1.75 mm"
+END_PART
+
+END.

@@ -1,0 +1,20 @@
+.TLP188_TPL_E :1 ;Transistor Output Optocouplers X36 PBF Transistor Cplr DC I/P VCEO350V
+SOP254P700X220-4N
+*STM IC
+*NGS
+*PLB 1="ANODE" 2="CATHODE" 3="EMITTER" 4="COLLECTOR"
+*MXP 4
+*DFN TLP188_TPL_E
+~!Manufacturer_Name (Toshiba)
+~!Manufacturer_Part_Number (TLP188(TPL,E)
+~!Mouser Part Number (757-TLP188(TPLE)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Toshiba/TLP188TPLE?qs=HVbQlW5zcXVmqo5Az0Pkvg%3D%3D)
+~!Arrow Part Number (TLP188(TPL,E)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tlp188-tple/toshiba)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://toshiba.semicon-storage.com/info/docget.jsp?did=13932&prodName=TLP188)
+~!Height (2.2mm)
+~!3D_Model (TLP188_TPL,E)
+TLP188_TPL_E
+1.1!U 2.1!U 4.1!U 3.1!U 
