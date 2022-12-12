@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC34063AD
+D Texas Instruments MC34063AD, Step-Down/Up DC-DC Converter, 1.5A, 1.55  40 V, 8-Pin SOIC
+K
+F http://www.ti.com/lit/gpn/mc34063a
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC34063ADRJR
+D Texas Instruments MC34063ADRJR, Inverting, Step-Down/Up Buck Boost Switching Regulator, 1.5A, Adjustable
+K
+F http://www.ti.com/lit/gpn/mc34063a
+$ENDCMP
+#
+#End Doc Library

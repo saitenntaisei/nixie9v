@@ -1,0 +1,20 @@
+.MC34063AD :1 ;Texas Instruments MC34063AD, Step-Down/Up DC-DC Converter, 1.5A, 1.55  40 V, 8-Pin SOIC
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="SWITCH COLLECTOR" 2="SWITCH EMITTER" 3="TIMING CAPACITOR" 4="GND" 5="COMPARATOR INVERTING INPUT" 6="VCC" 7="IPK" 8="DRIVER COLLECTOR"
+*MXP 8
+*DFN MC34063AD
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (MC34063AD)
+~!Mouser Part Number (595-MC34063AD)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/MC34063AD?qs=paYhMW8qfiu9F0uJ%2FIS%252Baw%3D%3D)
+~!Arrow Part Number (MC34063AD)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mc34063ad/texas-instruments?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://www.ti.com/lit/gpn/mc34063a)
+~!Height (1.75mm)
+~!3D_Model (MC34063AD)
+MC34063AD
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

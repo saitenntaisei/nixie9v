@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MC34063AD'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "MC34063AD" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "595-MC34063AD", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/MC34063AD?qs=paYhMW8qfiu9F0uJ%2FIS%252Baw%3D%3D", "MC34063AD", "https://www.arrow.com/en/products/mc34063ad/texas-instruments?region=nac", "", "", "Texas Instruments MC34063AD, Step-Down/Up DC-DC Converter, 1.5A, 1.55  40 V, 8-Pin SOIC", "http://www.ti.com/lit/gpn/mc34063a", "1.75 mm"
+END_PART
+
+END.

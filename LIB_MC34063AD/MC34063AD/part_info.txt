@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=MC34063AD
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=4.1
+Released=2017-09-21 22:11:09
+Downloaded=2022-12-11 15:38:03
+3D=Y

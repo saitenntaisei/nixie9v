@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MC34063AD'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "MC34063AD" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "512-MC34063AD", "http://www.mouser.com/Search/ProductDetail.aspx?qs=qJQOsIEC8WHIuBHtgH5ZSQ%3d%3d", "MC34063AD", "https://www.arrow.com/en/products/mc34063ad/on-semiconductor", "", "", "Step up/down converter,MC34063AD 98pcs", "http://www.onsemi.com/pub/Collateral/MC34063A-D.PDF", "1.75 mm"
+END_PART
+
+END.

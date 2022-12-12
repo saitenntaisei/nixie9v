@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MC34063ADRJR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-03-12-11:59:07)
+    (mountForm default
+        (footprintRef "MC34063ADRJR")
+        (spec "System")
+    )
+)

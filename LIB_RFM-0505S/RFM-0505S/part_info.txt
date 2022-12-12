@@ -1,0 +1,9 @@
+Manufacturer=RECOM Power
+PartNumber=RFM-0505S
+PartCategory=Power Supply
+PackageCategory=Other
+PinCount=4
+Version=7.3
+Released=2018-06-01 13:03:52
+Downloaded=2022-12-11 16:12:09
+3D=Y

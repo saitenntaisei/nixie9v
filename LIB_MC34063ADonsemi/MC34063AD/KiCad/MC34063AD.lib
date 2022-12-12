@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MC34063AD
+#/791469/700456/2.49/8/3/Integrated Circuit
+DEF MC34063AD IC 0 30 Y Y 1 F N
+F0 "IC" 2650 300 50 H V L CNN
+F1 "MC34063AD" 2650 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 2650 100 50 H I L CNN
+F3 "http://www.onsemi.com/pub/Collateral/MC34063A-D.PDF" 2650 0 50 H I L CNN
+F4 "Step up/down converter,MC34063AD 98pcs" 2650 -100 50 H I L CNN "Description"
+F5 "1.75" 2650 -200 50 H I L CNN "Height"
+F6 "onsemi" 2650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MC34063AD" 2650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "512-MC34063AD" 2650 -500 50 H I L CNN "Mouser Part Number"
+F9 "http://www.mouser.com/Search/ProductDetail.aspx?qs=qJQOsIEC8WHIuBHtgH5ZSQ%3d%3d" 2650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MC34063AD" 2650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mc34063ad/on-semiconductor" 2650 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 2650 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 2650 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X SWITCH_COLLECTOR 1 0 0 200 R 50 50 0 0 P
+X SWITCH_EMITTER 2 0 -100 200 R 50 50 0 0 P
+X TIMING_CAPACITOR 3 0 -200 200 R 50 50 0 0 P
+X GND 4 0 -300 200 R 50 50 0 0 P
+X DRIVER_COLLECTOR 8 2800 0 200 L 50 50 0 0 P
+X IPK_SENSE 7 2800 -100 200 L 50 50 0 0 P
+X VCC 6 2800 -200 200 L 50 50 0 0 P
+X COMPARATOR_INVERTING_INPUT 5 2800 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 2600 100 2600 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

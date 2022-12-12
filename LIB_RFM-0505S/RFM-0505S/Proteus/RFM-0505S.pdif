@@ -1,0 +1,123 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "RFM-0505S"
+   (description "RECOM POWER - RFM-0505S - DC-DC CONVERTER, 5V, 0.2A")
+   (family "ANA")
+   (package "RFM0505S")
+   (attribute "Datasheet Link" "https://www.recom-power.com/pdf/Econoline/RFM.pdf")
+   (attribute "Geometry.Height" "10.5mm")
+   (attribute "Manufacturer_Name" "RECOM Power")
+   (attribute "Manufacturer_Part_Number" "RFM-0505S")
+   (attribute "Mouser Part Number" "919-RFM-0505S")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/RECOM-Power/RFM-0505S?qs=lYGu3FyN48dRVYKTH5ipqg%3D%3D")
+   (attribute "Arrow Part Number" "RFM-0505S")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/rfm-0505s/recom-power?region=nac")
+   (attribute "Mouser Testing Part Number" "")
+   (attribute "Mouser Testing Price/Stock" "")
+   (gate
+    (symbol "RFM-0505S")
+    (pin "-VIN" 1 PS)
+    (pin "+VIN" 2 PS)
+    (pin "-VOUT" 3 PS)
+    (pin "+VOUT" 4 PS)
+   )
+  )
+  (symbol "RFM-0505S"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "RFM0505S"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.9 4.75)
+      (pt 9.6 4.75)
+      (pt 9.6 -1.25)
+      (pt -1.9 -1.25)
+      (pt -1.9 4.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.9 4.75)
+      (pt 9.6 4.75)
+      (pt 9.6 -1.25)
+      (pt -1.9 -1.25)
+      (pt -1.9 4.75))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.94 5.75)
+      (pt 10.56 5.75)
+      (pt 10.56 -2.85)
+      (pt -2.94 -2.85)
+      (pt -2.94 5.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.4 -1.8)
+      (arc (pt -0.400 -1.800) (pt -0.400 -1.850) (pt -0.300 -1.750) (start 180.0) (sweep 180.0))
+      (pt -0.3 -1.8)
+      (arc (pt -0.300 -1.800) (pt -0.400 -1.850) (pt -0.300 -1.750) (start 180.0) (sweep .0))
+      (pt -0.4 -1.8))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 2.540 0.000) (padstack 0))
+   (leg 3 (pt 5.080 0.000) (padstack 0))
+   (leg 4 (pt 7.620 0.000) (padstack 0))
+   (padstack 0
+    (hole 1.15)
+    (plated true)
+    (pad (layer TCOP) (round 1.725))
+    (pad (layer INNER) (round 1.725))
+    (pad (layer BCOP) (round 1.725))
+   )
+   (model "RFM-0505S.stp"
+    (euler 90 0 0)
+    (offset -1.940000057220459 -1.2000000476837158 0)
+   )
+  )
+ )
+)

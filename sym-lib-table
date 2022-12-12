@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "MC34063ADtexas")(type "Legacy")(uri "${KIPRJMOD}/LIB_MC34063AD/MC34063AD/KiCad/MC34063AD.lib")(options "")(descr ""))
+  (lib (name "MC34063AD")(type "Legacy")(uri "${KIPRJMOD}/LIB_MC34063ADonsemi/MC34063AD/KiCad/MC34063AD.lib")(options "")(descr ""))
+  (lib (name "MC34063ADRJR")(type "Legacy")(uri "${KIPRJMOD}/LIB_MC34063ADRJR/MC34063ADRJR/KiCad/MC34063ADRJR.lib")(options "")(descr ""))
+  (lib (name "RFM-0505S")(type "Legacy")(uri "${KIPRJMOD}/LIB_RFM-0505S/RFM-0505S/KiCad/RFM-0505S.lib")(options "")(descr ""))
+)

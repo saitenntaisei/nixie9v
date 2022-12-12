@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RFM_0505S'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "RECOM Power", "RFM-0505S" (!) = "", "RFM0505S", "Other", "919-RFM-0505S", "https://www.mouser.co.uk/ProductDetail/RECOM-Power/RFM-0505S?qs=lYGu3FyN48dRVYKTH5ipqg%3D%3D", "RFM-0505S", "https://www.arrow.com/en/products/rfm-0505s/recom-power?region=nac", "", "", "RECOM POWER - RFM-0505S - DC-DC CONVERTER, 5V, 0.2A", "https://www.recom-power.com/pdf/Econoline/RFM.pdf", "10.5 mm"
+END_PART
+
+END.

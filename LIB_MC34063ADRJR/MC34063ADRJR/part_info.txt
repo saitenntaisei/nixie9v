@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=MC34063ADRJR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=9
+Version=1.2
+Released=2020-03-12 11:59:07
+Downloaded=2022-12-11 15:40:57
+3D=Y

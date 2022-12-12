@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MC34063ADRJR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "MC34063ADRJR" (!) = "", "MC34063ADRJR", "Other", "595-MC34063ADRJR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/MC34063ADRJR?qs=qRemG2J%252Bg%2FV%252BInxBdda5Jw%3D%3D", "MC34063ADRJR", "https://www.arrow.com/en/products/mc34063adrjr/texas-instruments?region=nac", "", "", "Texas Instruments MC34063ADRJR, Inverting, Step-Down/Up Buck Boost Switching Regulator, 1.5A, Adjustable", "http://www.ti.com/lit/gpn/mc34063a", "0.8 mm"
+END_PART
+
+END.

@@ -1,0 +1,20 @@
+.MC34063AD :1 ;Step up/down converter,MC34063AD 98pcs
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="SWITCH COLLECTOR" 2="SWITCH EMITTER" 3="TIMING CAPACITOR" 4="GND" 5="COMPARATOR INVERTING INPUT" 6="VCC" 7="IPK SENSE" 8="DRIVER COLLECTOR"
+*MXP 8
+*DFN MC34063AD
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (MC34063AD)
+~!Mouser Part Number (512-MC34063AD)
+~!Link Mouser Price/Stock (http://www.mouser.com/Search/ProductDetail.aspx?qs=qJQOsIEC8WHIuBHtgH5ZSQ%3d%3d)
+~!Arrow Part Number (MC34063AD)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mc34063ad/on-semiconductor)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://www.onsemi.com/pub/Collateral/MC34063A-D.PDF)
+~!Height (1.75mm)
+~!3D_Model (MC34063AD)
+MC34063AD
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

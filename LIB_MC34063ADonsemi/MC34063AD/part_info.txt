@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=MC34063AD
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.2
+Released=2018-09-10 06:54:21
+Downloaded=2022-12-11 15:40:51
+3D=Y

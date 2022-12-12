@@ -1,0 +1,20 @@
+.MC34063ADRJR :1 ;Texas Instruments MC34063ADRJR, Inverting, Step-Down/Up Buck Boost Switching Regulator, 1.5A, Adjustable
+MC34063ADRJR
+*STM IC
+*NGS
+*PLB 1="SWITCH COLLECTOR" 2="SWITCH EMITTER" 3="TIMING CAPACITOR" 4="GND" 5="COMPARATOR INVERTING INPUT" 6="VCC" 7="IPK" 8="DRIVER  COLLECTOR" 9="EP"
+*MXP 9
+*DFN MC34063ADRJR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (MC34063ADRJR)
+~!Mouser Part Number (595-MC34063ADRJR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/MC34063ADRJR?qs=qRemG2J%252Bg%2FV%252BInxBdda5Jw%3D%3D)
+~!Arrow Part Number (MC34063ADRJR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mc34063adrjr/texas-instruments?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://www.ti.com/lit/gpn/mc34063a)
+~!Height (0.8mm)
+~!3D_Model (MC34063ADRJR)
+MC34063ADRJR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 
