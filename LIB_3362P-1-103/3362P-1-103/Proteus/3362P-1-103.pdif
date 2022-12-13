@@ -1,0 +1,104 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "3362P-1-103"
+   (description "3362P top adj cermet trimmer,10K 6mm")
+   (family "RES")
+   (package "3362P_1")
+   (attribute "Datasheet Link" "http://www.bourns.com/docs/Product-Datasheets/3362.pdf")
+   (attribute "Manufacturer_Name" "Bourns")
+   (attribute "Manufacturer_Part_Number" "3362P-1-103")
+   (attribute "Mouser Part Number" "652-3362P-1-103")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/3362P-1-103?qs=Uf%2FsSBgPTJJhIGut%2FdpuEA%3D%3D")
+   (attribute "Arrow Part Number" "3362P-1-103")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/3362p-1-103/bourns?region=nac")
+   (attribute "Mouser Testing Part Number" "")
+   (attribute "Mouser Testing Price/Stock" "")
+   (gate
+    (symbol "3362P-1-103")
+    (pin "CCW" 1 PS)
+    (pin "WIPER" 2 PS)
+    (pin "CW" 3 PS)
+   )
+  )
+  (symbol "3362P-1-103"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "3362P_1"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.3 6.99)
+      (pt 3.3 6.99)
+      (pt 3.3 0)
+      (pt -3.3 0)
+      (pt -3.3 6.99))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.3 6.99)
+      (pt -3.3 0)
+      (pt 3.3 0)
+      (pt 3.3 6.99)
+      (pt -3.3 6.99))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt -3.779 3.532) (pt -3.665 3.532)
+     )
+    )
+   )
+   (leg 1 (pt -2.54 3.53) (padstack 0))
+   (leg 2 (pt 0 6.07) (padstack 0))
+   (leg 3 (pt 2.54 3.53) (padstack 0))
+   (padstack 0
+    (hole 0.69)
+    (plated true)
+    (pad (layer TCOP) (round 1.12))
+    (pad (layer INNER) (round 1.12))
+    (pad (layer BCOP) (round 1.12))
+   )
+   (model "3362P-1-103.stp"
+    (euler 180 180 0)
+    (offset -0.03999999910593033 3.8399999141693115 2.2200000286102295)
+   )
+  )
+ )
+)

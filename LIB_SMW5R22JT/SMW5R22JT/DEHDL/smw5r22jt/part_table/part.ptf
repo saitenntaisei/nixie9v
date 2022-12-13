@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SMW5R22JT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "SMW5R22JT" (!) = "", "RESM17073X710N", "Resistor Moulded", "571-SMW5R22JT", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/SMW5R22JT?qs=qLl%252Bu6Y%2FBlLSsbkYwJVpSQ%3D%3D", "SMW5R22JT", "https://www.arrow.com/en/products/smw5r22jt/te-connectivity", "", "", "TE Connectivity SMW Series Wire Wound High Power Surface Mount Resistor 220m +/-5% 5W +/-200ppm/C", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS42/DSANUWW0051571.pdf", "7.1 mm"
+END_PART
+
+END.

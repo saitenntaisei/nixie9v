@@ -4,4 +4,7 @@
   (lib (name "MC34063AD")(type "KiCad")(uri "${KIPRJMOD}/LIB_MC34063ADonsemi/MC34063AD/KiCad")(options "")(descr ""))
   (lib (name "RFM-0505S")(type "KiCad")(uri "${KIPRJMOD}/LIB_RFM-0505S/RFM-0505S/KiCad")(options "")(descr ""))
   (lib (name "TLP188")(type "KiCad")(uri "${KIPRJMOD}/LIB_TLP188_TPL,E/TLP188_TPL,E/KiCad")(options "")(descr ""))
+  (lib (name "SN74141orK155ID1")(type "KiCad")(uri "${KIPRJMOD}/LIB_SN74141/SN74141/KiCad")(options "")(descr ""))
+  (lib (name "SMW5R22JT")(type "KiCad")(uri "${KIPRJMOD}/LIB_SMW5R22JT/SMW5R22JT/KiCad")(options "")(descr ""))
+  (lib (name "3362P")(type "KiCad")(uri "${KIPRJMOD}/LIB_3362P-1-103/3362P-1-103/KiCad")(options "")(descr ""))
 )

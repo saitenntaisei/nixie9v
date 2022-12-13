@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=SN74141
+PartCategory=Integrated Circuit
+PackageCategory=Dual-In-Line Packages
+PinCount=16
+Version=2.1
+Released=2018-07-16 06:48:41
+Downloaded=2022-12-13 11:13:37
+3D=Y

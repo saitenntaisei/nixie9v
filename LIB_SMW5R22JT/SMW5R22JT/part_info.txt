@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=SMW5R22JT
+PartCategory=Resistor
+PackageCategory=Resistor Moulded
+PinCount=2
+Version=1.1
+Released=2016-10-03 09:41:06
+Downloaded=2022-12-13 12:12:36
+3D=Y

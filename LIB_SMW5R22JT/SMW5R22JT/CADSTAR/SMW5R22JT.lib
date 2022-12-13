@@ -1,0 +1,20 @@
+.SMW5R22JT :1 ;TE Connectivity SMW Series Wire Wound High Power Surface Mount Resistor 220m +/-5% 5W +/-200ppm/C
+RESM17073X710N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SMW5R22JT
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (SMW5R22JT)
+~!Mouser Part Number (571-SMW5R22JT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/SMW5R22JT?qs=qLl%252Bu6Y%2FBlLSsbkYwJVpSQ%3D%3D)
+~!Arrow Part Number (SMW5R22JT)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/smw5r22jt/te-connectivity)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/DKDS42/DSANUWW0051571.pdf)
+~!Height (7.1mm)
+~!3D_Model (SMW5R22JT)
+SMW5R22JT
+1.1!U 2.1!U 

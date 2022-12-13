@@ -1,0 +1,20 @@
+.SN74141 :1 ;Nixie driver
+DIP787W53P279L2176H508Q16N
+*STM IC
+*NGS
+*PLB 1="8" 2="9" 3="A" 4="D" 5="VCC" 6="B" 7="C" 8="2" 9="3" 10="7" 11="6" 12="GND" 13="4" 14="5" 15="1" 16="0"
+*MXP 16
+*DFN SN74141
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (SN74141)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://pdf1.alldatasheet.com/datasheet-pdf/view/115763/TI/SN74141.html)
+~!Height (5.08mm)
+~!3D_Model (SN74141)
+SN74141
+1.1!Y 2.1!Y 3.1!I 4.1!I 5.1!P 6.1!I 7.1!I 8.1!Y 16.1!Y 15.1!Y 14.1!Y 13.1!Y 12.1!G 11.1!Y 10.1!Y 9.1!Y 

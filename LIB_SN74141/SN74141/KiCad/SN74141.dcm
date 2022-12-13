@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74141
+D Nixie driver
+K
+F http://pdf1.alldatasheet.com/datasheet-pdf/view/115763/TI/SN74141.html
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,102 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SMW5R22JT"
+   (description "TE Connectivity SMW Series Wire Wound High Power Surface Mount Resistor 220m +/-5% 5W +/-200ppm/C")
+   (family "RES")
+   (package "RESM17073X710N")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/distributors/DKDS42/DSANUWW0051571.pdf")
+   (attribute "Geometry.Height" "7.1mm")
+   (attribute "Manufacturer_Name" "TE Connectivity")
+   (attribute "Manufacturer_Part_Number" "SMW5R22JT")
+   (attribute "Mouser Part Number" "571-SMW5R22JT")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/SMW5R22JT?qs=qLl%252Bu6Y%2FBlLSsbkYwJVpSQ%3D%3D")
+   (attribute "Arrow Part Number" "SMW5R22JT")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/smw5r22jt/te-connectivity")
+   (attribute "Mouser Testing Part Number" "")
+   (attribute "Mouser Testing Price/Stock" "")
+   (gate
+    (symbol "SMW5R22JT")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "SMW5R22JT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 500 50) (pt 500 -50) (pt 200 -50) (pt 200 50) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "RESM17073X710N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -9.325 4.05)
+      (pt 9.325 4.05)
+      (pt 9.325 -4.05)
+      (pt -9.325 -4.05)
+      (pt -9.325 4.05))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -8.5 3.65)
+      (pt 8.5 3.65)
+      (pt 8.5 -3.65)
+      (pt -8.5 -3.65)
+      (pt -8.5 3.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 8.5 3.65)
+      (pt -8.5 3.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -8.5 -3.65)
+      (pt 8.5 -3.65))))
+   (leg 1 (pt -7.35 0) (padstack 0))
+   (leg 2 (pt 7.35 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.9 3.45 0 0 0))
+   )
+   (model "SMW5R22JT.stp"
+    (euler 90 0 0)
+    (offset 0 0 4.300000190734863)
+   )
+  )
+ )
+)

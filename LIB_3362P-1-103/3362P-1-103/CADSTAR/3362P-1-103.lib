@@ -1,0 +1,20 @@
+.3362P-1-103 :1 ;3362P top adj cermet trimmer,10K 6mm
+"3362P_1"
+*STM R
+*NGS
+*PLB 1="CCW" 2="WIPER" 3="CW"
+*MXP 3
+*DFN 3362P-1-103
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (3362P-1-103)
+~!Mouser Part Number (652-3362P-1-103)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/3362P-1-103?qs=Uf%2FsSBgPTJJhIGut%2FdpuEA%3D%3D)
+~!Arrow Part Number (3362P-1-103)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/3362p-1-103/bourns?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://www.bourns.com/docs/Product-Datasheets/3362.pdf)
+~!Height (-)
+~!3D_Model (3362P-1-103)
+"3362P-1-103"
+1.1!U 2.1!U 3.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SN74141'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "SN74141" (!) = "", "DIP787W53P279L2176H508Q16N", "Dual-In-Line Packages", "", "", "", "", "", "", "Nixie driver", "http://pdf1.alldatasheet.com/datasheet-pdf/view/115763/TI/SN74141.html", "5.08 mm"
+END_PART
+
+END.
