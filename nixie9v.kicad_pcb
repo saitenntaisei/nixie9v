@@ -283,8 +283,8 @@
       (net 2 "GND") (pinfunction "Pin_3") (pintype "passive") (tstamp ab881581-f986-4eeb-b924-65d5fc8b01fb))
     (pad "4" smd roundrect (at 1.5 1.325 180) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 6 "+3V3") (pinfunction "Pin_4") (pintype "passive") (tstamp 5c3f3498-96d7-46d1-8fcf-099f55271abf))
-    (pad "MP" smd roundrect (at -2.8 -1.2 180) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp 256f2eb8-c1d7-4c91-981a-5bb8df24b869))
-    (pad "MP" smd roundrect (at 2.8 -1.2 180) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp 863e88ca-6e57-4ea0-bd97-820c8f3f4486))
+    (pad "MP" smd roundrect (at -2.8 -1.2 180) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2083333333) (tstamp 256f2eb8-c1d7-4c91-981a-5bb8df24b869))
+    (pad "MP" smd roundrect (at 2.8 -1.2 180) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2083333333) (tstamp 863e88ca-6e57-4ea0-bd97-820c8f3f4486))
     (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -3486,8 +3486,8 @@
       (net 2 "GND") (pinfunction "Pin_3") (pintype "passive") (tstamp bb73496f-25c9-4064-abb9-2e4ed1887ce2))
     (pad "4" smd roundrect (at 1.5 1.325 180) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 11 "NRST") (pinfunction "Pin_4") (pintype "passive") (tstamp 620b8bde-bbfd-455f-9a46-7175d031d91e))
-    (pad "MP" smd roundrect (at 2.8 -1.2 180) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp 3ff0cadf-f28b-4710-8861-adcd57ff2352))
-    (pad "MP" smd roundrect (at -2.8 -1.2 180) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp 8e4c2137-5f5b-434f-a689-8204d1aa6704))
+    (pad "MP" smd roundrect (at 2.8 -1.2 180) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2083333333) (tstamp 3ff0cadf-f28b-4710-8861-adcd57ff2352))
+    (pad "MP" smd roundrect (at -2.8 -1.2 180) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2083333333) (tstamp 8e4c2137-5f5b-434f-a689-8204d1aa6704))
     (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
