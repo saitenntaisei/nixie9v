@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.2,
-          "height": 2.5,
-          "width": 2.5
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.0
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -120,8 +120,6 @@
       },
       "track_widths": [
         0.0,
-        0.15,
-        0.2,
         0.762
       ],
       "via_dimensions": [
@@ -349,7 +347,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "nixie9v.kicad_pro",
+    "filename": "nixieupperside.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -428,12 +426,8 @@
   },
   "sheets": [
     [
-      "c65e7b22-da00-45c6-a31c-129a9992436b",
+      "a69b4ceb-c403-4d40-96c7-7234fa1ab65e",
       ""
-    ],
-    [
-      "d3224f7f-a918-4bc4-95ba-858aeba84853",
-      "Control_circuit"
     ]
   ],
   "text_variables": {}
