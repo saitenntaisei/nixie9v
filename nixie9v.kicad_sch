@@ -3763,7 +3763,7 @@
     (pin "1" (uuid a29e8c30-1885-41c3-8471-3cfc52495f37))
   )
 
-  (symbol (lib_id "Device:Q_PNP_ECB") (at 166.37 69.85 0) (unit 1)
+  (symbol (lib_id "Device:Q_PNP_ECB") (at 166.37 69.85 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 399d476d-abf7-46cf-a27b-e8b8d7ba3964)
     (property "Reference" "Q3" (id 0) (at 171.45 68.5799 0)
@@ -3772,7 +3772,7 @@
     (property "Value" "2SA1015" (id 1) (at 171.45 71.1199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92" (id 2) (at 171.45 67.31 0)
+    (property "Footprint" "Package_TO_SOT_THT:TO-92" (id 2) (at 171.45 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 166.37 69.85 0)
